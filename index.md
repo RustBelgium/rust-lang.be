@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: default
 ---
 
 # Belgium Rust user group
