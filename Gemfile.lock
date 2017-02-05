@@ -197,7 +197,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  jekyll-theme-cayman
+  jekyll-theme-cayman (~> 0.0.3)
 
 RUBY VERSION
    ruby 2.3.1p112
