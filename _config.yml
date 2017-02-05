@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+title: Rust-lang Belgium user group
+description: >
+  User group for rust in Belgium.
+baseurl: "/"
+url: "http://rust-lang.be"
+#twitter_username: jekyllrb
+github_username:  Grummfy
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
