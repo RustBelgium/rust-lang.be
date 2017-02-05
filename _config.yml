@@ -1,7 +1,7 @@
 title: Rust-lang Belgium user group
 description: Rust-lang Belgium user group
-baseurl: "/"
-url: "http://rust-lang.be"
+baseurl: ""
+url: "http://rust-lang.be/"
 #twitter_username: jekyllrb
 github_username:  Grummfy
 
