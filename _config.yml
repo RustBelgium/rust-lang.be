@@ -4,6 +4,8 @@ baseurl: ""
 url: "http://rust-lang.be/"
 #twitter_username: jekyllrb
 github_username:  Grummfy
+show_downloads: false
+google_analytics: UA-91780964-2
 
 theme: jekyll-theme-cayman
 markdown: kramdown
