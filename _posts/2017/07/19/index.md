@@ -5,6 +5,8 @@ layout: default
 
 # #1 The start
 
+[Meetup website](https://www.meetup.com/Belgium-Rust-user-group/events/240185551/)
+
 ## Welcome - Grummfy
 
 ## Rust's type system & database - Pieter Penninckx

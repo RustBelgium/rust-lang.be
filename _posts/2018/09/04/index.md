@@ -5,6 +5,8 @@ layout: default
 
 # #3 futures/async/tokio && Gotham-rs
 
+[Meetup website](https://www.meetup.com/Belgium-Rust-user-group/events/249899651/)
+
 ## Welcome - Grummfy
 
 ## Gotham-rs - Nicolas Pochet

@@ -5,6 +5,8 @@ layout: default
 
 # #2 Error handling, logs and more
 
+[Meetup website](https://www.meetup.com/Belgium-Rust-user-group/events/248297132/)
+
 ## Welcome - Grummfy
 
 ## Error handling and logs - Grummfy
