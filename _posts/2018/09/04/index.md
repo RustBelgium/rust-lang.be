@@ -12,6 +12,7 @@ layout: default
 ## Gotham-rs - Nicolas Pochet
 
 An introduction to the web framework [Gotham-rs](https://gotham.rs/)
+
 [Demo application](https://github.com/n-pochet/gotham-demo)
 
 ## futures/async/tokio - Ruben De Smet
@@ -37,7 +38,6 @@ No description.
 Demo of a proposed lint for [clippy](https://github.com/rust-lang-nursery/rust-clippy/),
 "A collection of lints to catch common mistakes and improve your Rust code".
 Includes a quick [quiz](quiz.rs) about the `Drop` trait.
-Links about the quiz:
 
 Links about the questions:
 1 (no link),

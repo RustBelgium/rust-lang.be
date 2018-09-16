@@ -23,4 +23,4 @@ No description.
 
 ### Software synthesizer - Pieter Penninckx
 
-Demo of software synthesizer written in Rust.
+Demo of a software synthesizer written in Rust.
