@@ -37,7 +37,7 @@ No description.
 
 Demo of a proposed lint for [clippy](https://github.com/rust-lang-nursery/rust-clippy/),
 "A collection of lints to catch common mistakes and improve your Rust code".
-Includes a quick [quiz](quiz.rs) about the `Drop` trait.
+Includes a quick [quiz](/assets/quiz.rs) about the `Drop` trait.
 
 Links about the questions:
 1 (no link),
