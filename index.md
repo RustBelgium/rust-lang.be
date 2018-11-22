@@ -28,13 +28,13 @@ On meetup.com:
 
 <ul>
     <li>
-        ([2017/07/19](https://www.meetup.com/Belgium-Rust-user-group/events/240185551/))
+        [2017/07/19](https://www.meetup.com/Belgium-Rust-user-group/events/240185551/)
     </li>
     <li>
-        ([2018/04/17](https://www.meetup.com/Belgium-Rust-user-group/events/248297132/))
+        [2018/04/17](https://www.meetup.com/Belgium-Rust-user-group/events/248297132/)
     </li>
     <li>
-        ([2018/09/04](https://www.meetup.com/Belgium-Rust-user-group/events/249899651/))
+        [2018/09/04](https://www.meetup.com/Belgium-Rust-user-group/events/249899651/)
     </li>
 </ul>
 
